@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started
 
 This project was built using ReactJs
+
+![image](https://github.com/shahad2nk/gpt3/assets/121661175/7dec53a1-8ee0-40ad-86a7-28a5786446ba)
+
+
+
 
 ## Available Scripts
 
